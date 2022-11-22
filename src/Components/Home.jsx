@@ -8,8 +8,7 @@ const Home = () => {
         <h3 className='Text'>About me </h3>
         <br></br>
         <p className='Text'>
-          I am front end software engineer
-        </p>
+          I am front end software engineer</p>
         </div>
     </div>
   )

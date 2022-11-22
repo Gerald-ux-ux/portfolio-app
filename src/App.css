@@ -1,3 +1,8 @@
+.App{
+ color: whitesmoke;
+}
+
+
 body{
   background-image: url(../src/Photos/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
   max-width: 100%;
@@ -8,6 +13,10 @@ body{
   background-size: cover;
   background-position: center;
   width: device-width;
+}
+
+.input{
+  color: whitesmoke;
 }
 
 
